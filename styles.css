@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+
+table,th,td{
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 8px;
+	text-align: center;
+}
+
+.black-cell{
+	background-color: black;
+	color: white;
+	font-weight: bold;
+}
+
+a{
+	text-decoration: none;
+}
